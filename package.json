@@ -1,7 +1,7 @@
 {
   "name": "vue-webpack-4",
   "version": "1.1.0",
-  "description": "A Vuejs template using Webpack 4",
+  "description": "{{description}}",
   "main": "index.js",
   "scripts": {
     "dev": "webpack-dev-server --progress --config build/webpack.config.dev.js",
@@ -16,7 +16,7 @@
     "Vue",
     "Webpack 4"
   ],
-  "author": "Daniel Cook",
+  "author": "{{author}}",
   "license": "MIT",
   "dependencies": {
     "vue": "^2.6.10",
