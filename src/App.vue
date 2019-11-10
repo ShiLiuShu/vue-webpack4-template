@@ -1,6 +1,9 @@
 <template>
   <div class="container center-content">
     <RouterView />
+    {{#if useUip}}
+    <p>Using UIP hahaha</p>
+    {{/if}}
   </div>
 </template>
 
